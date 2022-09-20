@@ -47,11 +47,11 @@
         "model":"mywatchlist.attributewatchlist",
         "pk":5,
         "fields":{
-            "title":"Zoku Owarimonogatari",
+            "title":"Arcane",
             "watched":"Completed",
-            "rating": 4,
-            "release_date": "10/11/2018",
-            "review": "Nice to see the characters back at it again, but the main story has already ended in the previous season. More isn't always better."
+            "rating": 5,
+            "release_date": "06/11/2021",
+            "review": "Amazing graphics, world building, voice acting, sound quality. The characters are alive... well, some of them :)"
         }
     },
     {
