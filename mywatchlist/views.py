@@ -26,7 +26,7 @@ def watch_counter(query):
 
 
 # HTML Show Watchlist
-def show_watchlist(request):
+def show_watchlist_html(request):
     data_watchlist = AttributeWatchList.objects.all()
     message = watch_counter(data_watchlist)
     context = {
