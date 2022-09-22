@@ -32,10 +32,10 @@ Data delivery dilakukan agar browser dapat menerima respon dari server sesuai re
 
 ## Postman URL test
 # HTML
-https://user-images.githubusercontent.com/112199564/191650400-6eb4d4e1-64cc-446b-a3fa-ccafa0216114.png
+![html](https://user-images.githubusercontent.com/112199564/191658476-5b35a49e-06fe-4cd5-807d-aafb30965d3c.png)
 
 # XML
-https://user-images.githubusercontent.com/112199564/191651653-f73a821d-5f7c-4144-a144-258ce0a8eb87.png
+![xml](https://user-images.githubusercontent.com/112199564/191658557-2503c04b-dc5a-4c06-a5dd-33094e863148.png)
 
 # JSON
-https://user-images.githubusercontent.com/112199564/191651947-34e8113f-1728-47f6-b9a8-502019cd45e8.png
+![json](https://user-images.githubusercontent.com/112199564/191658561-40a074cf-b518-44b5-8cc2-ca60b21a1d7c.png)
